@@ -1,0 +1,24 @@
+{
+  "monitoredEvents": [
+    "ConsoleLogin",
+    "CreateUser",
+    "DeleteUser",
+    "AttachUserPolicy",
+    "DetachUserPolicy",
+    "CreateAccessKey",
+    "DeleteAccessKey",
+    "AuthorizeSecurityGroupIngress",
+    "AuthorizeSecurityGroupEgress",
+    "RevokeSecurityGroupIngress",
+    "RevokeSecurityGroupEgress",
+    "CreateBucket",
+    "DeleteBucket",
+    "PutBucketPolicy",
+    "DeleteBucketPolicy",
+    "StartInstances",
+    "StopInstances",
+    "TerminateInstances",
+    "UpdateTrail",
+    "DeleteTrail"
+  ]
+}
